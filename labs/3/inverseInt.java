@@ -1,3 +1,4 @@
+//Alex Armatas CMPT 220 Inverse Integers
 import java.util.Scanner;
 
 

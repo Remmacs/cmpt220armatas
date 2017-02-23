@@ -1,3 +1,4 @@
+//Alex Armatas CMPT 220 Lottery Numbers!
 import java.util.Random;
 import java.util.Scanner;
 

@@ -1,5 +1,5 @@
 //Alex Armatas
-//Software Development 1
+//Software Development
 
 public class Randommonth {
 

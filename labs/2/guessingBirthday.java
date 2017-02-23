@@ -1,3 +1,4 @@
+//Alex Armatas CMPT 220 Guessing Birthdays!
 import java.util.Scanner;
 
 public class guessingBirthday {

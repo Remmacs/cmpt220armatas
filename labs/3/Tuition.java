@@ -1,3 +1,4 @@
+//Alex Armatas CMPT 220 Tuition Problem!
 
 public class Tuition {
 	public static void main (String args[]) {

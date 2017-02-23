@@ -1,3 +1,4 @@
+//Alex Armatas CMPT 220 Area of Polygon!
 import java.util.Scanner;
 
 public class areaPolygon {

@@ -1,3 +1,4 @@
+//Alex Armatas CMPT 220 Sum of Integers
 
 public class sumofInt {
 

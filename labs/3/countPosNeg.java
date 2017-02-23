@@ -1,3 +1,4 @@
+//Alex Armatas CMPT 220 Counting Positives and Negatives
 
 public class countPosNeg {
 	public static void main(String[] args) {

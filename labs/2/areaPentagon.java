@@ -1,3 +1,4 @@
+//Alex Armatas CMPT 220 Area of Pentagon!
 import java.util.Scanner;
 import java.text.DecimalFormat;
 

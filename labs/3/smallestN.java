@@ -1,3 +1,4 @@
+//Alex Armatas CMPT 220 Smallest N
 
 public class smallestN {
 	public static void main (String args[]){

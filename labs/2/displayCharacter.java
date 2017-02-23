@@ -1,3 +1,4 @@
+//Alex Armatas CMPT 220 Display Characters
 import java.util.Scanner;
 
 public class displayCharacter {

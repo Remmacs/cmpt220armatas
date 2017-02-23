@@ -1,3 +1,4 @@
+//Alex Armatas CMPT 220 Days in a month!
 import java.util.Scanner;
 
 public class daysinamonth {
