@@ -1,4 +1,13 @@
-//Alex Armatas CMPT 220 Guessing Birthdays!
+/**
+   * file: guessingBirthday.java
+   * author: Alexander Armatas
+   * course: CMPT 220
+   * assignment: Lab 2, 4.10
+   * due date: February 2, 2017
+
+   * 
+   * This file guesses your birthday using string sets
+   */
 import java.util.Scanner;
 
 public class guessingBirthday {

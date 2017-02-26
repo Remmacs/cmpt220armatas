@@ -1,4 +1,14 @@
-//Alex Armatas CMPT 220 Non Decreasing!!
+/**
+   * file: nondecreasing.java
+   * author: Alexander Armatas
+   * course: CMPT 220
+   * assignment: Lab 2, 3.8
+   * due date: February 2, 2017
+
+   * 
+   * This file contains a program that returns 3 integes
+   * in non-decreasing order
+   */
 import java.util.Scanner;
 
 public class nondecreasing {

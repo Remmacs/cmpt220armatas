@@ -1,4 +1,14 @@
-//Alex Armatas CMPT 220 Lottery Numbers!
+/**
+   * file: lotteryNumberswitches.java
+   * author: Alexander Armatas
+   * course: CMPT 220
+   * assignment: Lab 2, 3.15
+   * due date: February 2, 2017
+
+   * 
+   * This file contains the program to test a lottery w/ switches
+   * 
+   */
 import java.util.Random;
 import java.util.Scanner;
 

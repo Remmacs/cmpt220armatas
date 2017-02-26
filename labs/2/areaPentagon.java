@@ -1,6 +1,14 @@
-//Alex Armatas CMPT 220 Area of Pentagon!
-import java.util.Scanner;
-import java.text.DecimalFormat;
+/**
+   * file: areaPentagon.java
+   * author: Alexander Armatas
+   * course: CMPT 220
+   * assignment: Lab 2, 4.1
+   * due date: February 2, 2017
+
+   * 
+   * This file contains the program to get the area of a pentagon
+   * 
+   */
 
 public class areaPentagon {
 	

@@ -1,7 +1,16 @@
-//Alex Armatas
-//Software Development
+/**
+   * file: randomMonth.java
+   * author: Alex Armatas
+   * course: CMPT 220
+   * assignment: Lab 2, 3.4
+   * due date: February 2, 2017
 
-public class Randommonth {
+   * 
+   * This file contains a program that gets a random month
+   * 
+   */
+
+public class randomMonth {
 
 	public static void main(String[] args) {
 		

@@ -1,4 +1,14 @@
-//Alex Armatas CMPT 220 Sum of Integers
+/**
+   * file: sumofInt.java
+   * author: Alexander Armatas
+   * course: CMPT 220
+   * assignment: Lab 3, 6.2
+   * due date: February 23, 2017
+
+   * 
+   * This file contains the program to get the sum of integers
+   * 
+   */
 
 public class sumofInt {
 

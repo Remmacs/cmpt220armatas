@@ -1,4 +1,14 @@
-//Alex Armatas CMPT 220 Inverse Integers
+/**
+   * file: inverseInt.java
+   * author: Alexander Armatas
+   * course: CMPT 220
+   * assignment: Lab 3, 6.3
+   * due date: February 23, 2017
+
+   * 
+   * This file contains the program to get the reverse of the integers
+   *
+   */
 import java.util.Scanner;
 
 

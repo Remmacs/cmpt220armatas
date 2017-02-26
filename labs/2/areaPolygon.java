@@ -1,4 +1,14 @@
-//Alex Armatas CMPT 220 Area of Polygon!
+/**
+   * file: areaPolygon.java
+   * author: Alexander Armatas
+   * course: CMPT 220
+   * assignment: Lab 2, 4.3
+   * due date: February 2, 2017
+
+   * 
+   * This file contains the program to get the area of a polygon
+   * 
+   */
 import java.util.Scanner;
 
 public class areaPolygon {

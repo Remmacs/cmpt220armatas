@@ -1,4 +1,14 @@
-//Alex Armatas CMPT 220 Counting Positives and Negatives
+/**
+   * file: countPosNeg.java
+   * author: Alexander Armatas
+   * course: CMPT 220
+   * assignment: Lab 3, 5.1
+   * due date: February 23, 2017
+
+   * 
+   * This file contains the program to count positives and negatives
+   * then get the number
+   */
 
 public class countPosNeg {
 	public static void main(String[] args) {

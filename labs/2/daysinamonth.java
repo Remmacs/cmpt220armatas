@@ -1,4 +1,13 @@
-//Alex Armatas CMPT 220 Days in a month!
+/**
+   * file: daysinamonth.java
+   * author: Alexander Armatas
+   * course: CMPT 220
+   * assignment: Lab 2, 3.11
+   * due date: February 2, 2017
+
+   * 
+   * This file contains the program to find days in a month
+   */
 import java.util.Scanner;
 
 public class daysinamonth {

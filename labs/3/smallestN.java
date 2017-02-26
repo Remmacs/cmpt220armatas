@@ -1,4 +1,14 @@
-//Alex Armatas CMPT 220 Smallest N
+/**
+   * file: smallestN.java
+   * author: Alexander Armatas
+   * course: CMPT 220
+   * assignment: Lab 3, 5.12
+   * due date: February 23, 2017
+
+   * 
+   * This file contains the program to get the smallest n
+   * 
+   */
 
 public class smallestN {
 	public static void main (String args[]){

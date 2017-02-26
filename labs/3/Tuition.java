@@ -1,4 +1,14 @@
-//Alex Armatas CMPT 220 Tuition Problem!
+/**
+   * file: Tuition.java
+   * author: Alexander Armatas
+   * course: CMPT 220
+   * assignment: Lab 3, 5.7
+   * due date: February 23, 2017
+
+   * 
+   * This file contains the program to get the total tuition
+   * 
+   */
 
 public class Tuition {
 	public static void main (String args[]) {
