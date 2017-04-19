@@ -26,10 +26,32 @@ public class locateLargest {
 		//get the numbers for the array
 		System.out.println("Please provide the numbers for the array");
 		for(int i = 0; i < array.length; i++){
+			for (int x = 0; x < array[i].length; x++){
+				array[i][x] = input.nextDouble();
 			
 		}
 		}
+		int[] location = findLargest(array);
+		System.out.println("Location is at" + location[0] + " , " + location[1] );
 		
+		
+	}
+	//creatint finding largest
+	public static int[] findLargest(double[][] a){
+		int[] first = new int[2];
+		first[0] = 0;
+		first[1] = 0;
+		double max = 0;
+		for (int i = 0; i < a.length; i++){
+			for (int x = 0; x < a[i].length; x++){
+				if(a[i][x]>max){
+					first[0] = i;
+					first[1] = x;
+					max = a[i][x];
+				}
+			}
+		}
+		return first;
 		
 	}
 
