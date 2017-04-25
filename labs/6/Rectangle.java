@@ -6,7 +6,7 @@
    * date completed: 4/25/2017
 
    * 
-   * This file represents the rectangle
+   * This file represents the rectangle for 9.1
    *
    */
 public class Rectangle {
