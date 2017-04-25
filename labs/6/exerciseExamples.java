@@ -1,4 +1,14 @@
+/**
+   * file: Rectangle.java
+   * author: Alexander Armatas
+   * course: CMPT 220
+   * assignment: Lab 6, 9.1
+   * date completed: 4/25/2017
 
+   * 
+   * This file represents the exercise portion of 9.1
+   *
+   */
 public class exerciseExamples {
 	public static void main(String[] args){
 		//make the two rectangles
