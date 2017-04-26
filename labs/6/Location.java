@@ -21,7 +21,7 @@ public class Location {
 		column = 0;
 		for (int i = 0; i< x.length; i++){
 			for (int j = 0; j < x[i].length; j++){
-				if (a[i][j]>maxValue){
+				if (x[i][j]>maxValue){
 					maxValue=x[i][j];
 					row = i;
 					column = j;
