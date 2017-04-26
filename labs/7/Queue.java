@@ -10,7 +10,11 @@
    *
    */
 public class Queue {
-	
+	//create data field
+	private int[] elements;
+	private int size;
+	//set initial array size to 8
+	public static final int DEFAULT_CAPACITY = 8;
 	Queue(){
 		
 	}
