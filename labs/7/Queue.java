@@ -1,5 +1,5 @@
 /**
-   * file: Rectangle.java
+   * file: Queue.java
    * author: Alexander Armatas
    * course: CMPT 220
    * assignment: Lab 7, 10.10
