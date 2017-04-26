@@ -30,15 +30,25 @@ public class Queue {
 		elements[size++] = v;
 		
 	}
-	
+	//it removes elements if we want to
 	public int dequeue(){
 		int v = elements[0];
-		int[] temp = new int[elements.length;
+		int[] temp = new int[elements.length];
+		System.arraycopy(elements, 1, temp ,0, size);
+		elements=temp;
+		size--;
+		return v;
 		
 	}
+	//will return true if the queue is empty
 	
 	public boolean empty(){
+		return size == 0;
 		
+	}
+	//gets the size
+	public int getSize(){
+		return size;
 	}
 
 }
