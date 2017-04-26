@@ -61,6 +61,13 @@ public class AnimalColorFrame extends JFrame {
 			public void itemStateChanged(ItemEvent arg0) {
 				if(comboBox.getSelectedItem().toString() == "Cat"){
 					imgLabel.setIcon(new ImageIcon("C:\\Users\\Alex Armatas\\Desktop\\testcat.png"));
+					answer = "Gray";
+				}else if(comboBox.getSelectedItem().toString() == "Bear"){
+					imgLabel.setIcon(new ImageIcon("C:\\Users\\Alex Armatas\\Desktop\\testbear.jpg"));
+					answer = "Brown";
+				}else if(comboBox.getSelectedItem().toString() == "Dog"){
+					imgLabel.setIcon(new ImageIcon("C:\\Users\\Alex Armatas\\Desktop\\testdog.jpg"));
+					answer = "Yellow";
 				}
 			}
 		});
