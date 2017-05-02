@@ -77,11 +77,28 @@ public class AnimalColorFrame extends JFrame {
 					imgLabel.setIcon(new ImageIcon("img\\testdog.jpg"));
 					answer = "Yellow";
 				}
+				else if(comboBox.getSelectedItem().toString() == "Fox"){
+					imgLabel.setIcon(new ImageIcon("img\\testfox.jpg"));
+					answer = "Red";
+				}
+				else if(comboBox.getSelectedItem().toString() == "Lion"){
+					imgLabel.setIcon(new ImageIcon("img\\testlion.jpg"));
+					answer = "Yellow";
+				}
+				else if(comboBox.getSelectedItem().toString() == "Koala"){
+					imgLabel.setIcon(new ImageIcon("img\\testkoala.jpg"));
+					answer = "Brown";
+				}
+				else if(comboBox.getSelectedItem().toString() == "Kangaroo"){
+					imgLabel.setIcon(new ImageIcon("img\\testkangaroo.jpg"));
+					answer = "Brown";
+				}
+				
 			}
 		});
 		
 		comboBox.setFont(new Font("Tahoma", Font.PLAIN, 32));
-		comboBox.setModel(new DefaultComboBoxModel(new String[] {"", "Dog", "Cat", "Bear"}));
+		comboBox.setModel(new DefaultComboBoxModel(new String[] {"", "Dog", "Cat", "Bear", "Fox", "Lion", "Kangaroo", "Koala"}));
 		comboBox.setBounds(541, 208, 344, 39);
 		contentPane.add(comboBox);
 		
